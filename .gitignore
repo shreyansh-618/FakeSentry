@@ -6,9 +6,6 @@ __pycache__/
 # Virtual Environment
 venv/
 
-#.env files
-.env
-
 # VSCode
 .vscode/
 
@@ -16,8 +13,10 @@ venv/
 .DS_Store
 
 # Model artifacts (optional)
-# Uncomment if you don't want to push model files
 # models/*.pkl
 
 # Logs or junk
 *.log
+
+# Environment variables
+.env
