@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+
+# Model artifacts (optional)
+# Uncomment if you don't want to push model files
+# models/*.pkl
+
+# Logs or junk
+*.log

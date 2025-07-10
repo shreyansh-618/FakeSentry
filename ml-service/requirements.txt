@@ -1,0 +1,12 @@
+tensorflow
+keras
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+lightgbm
+flask
+flask-cors
+python-dotenv
+nltk
