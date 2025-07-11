@@ -20,3 +20,6 @@ venv/
 
 # Environment variables
 .env
+
+.TXT
+.txt
